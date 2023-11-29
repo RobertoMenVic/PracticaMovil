@@ -24,6 +24,8 @@ Mobile.tap(findTestObject('Object Repository/Login/android.widget.IngresarCuenta
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.IngresarCuenta'), 15)
 
+Mobile.tap(findTestObject('Object Repository/Login/android.widget.IngresarCuenta'), 15)
+
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.EditText_IngresarCorreo'), 2)
 
 Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText_IngresarCorreo'), 'usuariofermina@gmail.com', 5)
@@ -31,6 +33,8 @@ Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText_I
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.EditText_IngresarPass'), 2)
 
 Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText_IngresarPass'), 'Fermi423', 5)
+
+Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button_Ingresar'),5)
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button_Ingresar'),5)
 
