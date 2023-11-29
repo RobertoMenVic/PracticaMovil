@@ -37,6 +37,7 @@ Mobile.setText(findTestObject('Object Repository/Login/android.widget.EditText_I
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button_Ingresar'),5)
 
 Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button_Ingresar'),5)
+Mobile.tap(findTestObject('Object Repository/Login/android.widget.Button_Ingresar'),5)
 
 'Mobile.closeApplication()'
 
